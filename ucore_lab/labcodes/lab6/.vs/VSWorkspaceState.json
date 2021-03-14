@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\kern",
+    "\\kern\\process",
+    "\\kern\\schedule",
+    "\\kern\\trap"
+  ],
+  "SelectedNode": "\\kern\\schedule\\default_sched.c",
+  "PreviewInSolutionExplorer": false
+}
